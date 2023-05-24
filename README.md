@@ -83,7 +83,9 @@ insertion_sort(list_of_nums)
 
 ## Output:
 ![4 python 1](https://github.com/DINESH18032004/Sorting-Algorithm/assets/119477784/40c79de6-e23c-4d17-9104-755d5cf4bc21)
-![Uploading 4 python2 method.png…]()
+
+![4 python2](https://github.com/DINESH18032004/Sorting-Algorithm/assets/119477784/7379a3c1-544d-442d-8151-0a13656d13fe)
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
